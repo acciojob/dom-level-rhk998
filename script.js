@@ -11,5 +11,3 @@ function getDepth(e){
 }
 const depth = getDepth(targetLevel);
 alert(`The level of the element is: ${depth}`);
-
-const depth = function getDepth(targetLevel);
